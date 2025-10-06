@@ -19,7 +19,6 @@ Es ermöglicht, **mehrere vorgegebene Termine** auf einmal in die Eingabefelder 
 
 ### 🧠 Funktionsweise
 
-- Wählt beim Laden der Seite automatisch das Eingabeformat **„Text“** aus.  
 - Fügt oben links auf der Seite ein **Textfeld** und einen **„Eintragen“-Button** hinzu.  
 - Liest jede Zeile aus dem Textfeld aus und trägt sie nacheinander in die Formularfelder für die Buchungsliste ein.  
 - Fügt bei Bedarf automatisch neue Eingabefelder hinzu.  
